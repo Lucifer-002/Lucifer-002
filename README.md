@@ -1,3 +1,4 @@
+![logo](https://github.com/Lucifer-002/Lucifer-002/blob/main/My%20Banner.png)
 <h1 align="center">Hi 👋, I'm Chirantan Mazumdar</h1>
 <h3 align="center">I am passionate about building innovative solutions and leveraging my technical skills to contribute to dynamic and collaborative development teams.I am eager to apply my theoretical knowledge in a practical setting.</h3>
 
